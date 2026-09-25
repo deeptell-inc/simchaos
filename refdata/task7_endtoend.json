@@ -1,0 +1,82 @@
+[
+ {
+  "q": 4,
+  "N_shots": 100000,
+  "eta": 0.05,
+  "eps_trunc": 0.01,
+  "flip": 0.02,
+  "ambiguous": 0.14
+ },
+ {
+  "q": 4,
+  "N_shots": 1000000,
+  "eta": 0.05,
+  "eps_trunc": 0.01,
+  "flip": 0.0,
+  "ambiguous": 0.15
+ },
+ {
+  "q": 4,
+  "N_shots": 1000000,
+  "eta": 0.1,
+  "eps_trunc": 0.01,
+  "flip": 0.0,
+  "ambiguous": 0.0
+ },
+ {
+  "q": 4,
+  "N_shots": 1000000,
+  "eta": 0.02,
+  "eps_trunc": 0.003,
+  "flip": 0.0,
+  "ambiguous": 0.135
+ },
+ {
+  "q": 4,
+  "N_shots": 10000000,
+  "eta": 0.02,
+  "eps_trunc": 0.003,
+  "flip": 0.0,
+  "ambiguous": 0.12
+ },
+ {
+  "q": 2,
+  "N_shots": 100000,
+  "eta": 0.05,
+  "eps_trunc": 0.01,
+  "flip": 0.195,
+  "ambiguous": 0.34
+ },
+ {
+  "q": 2,
+  "N_shots": 1000000,
+  "eta": 0.05,
+  "eps_trunc": 0.01,
+  "flip": 0.125,
+  "ambiguous": 0.37
+ },
+ {
+  "q": 2,
+  "N_shots": 1000000,
+  "eta": 0.1,
+  "eps_trunc": 0.01,
+  "flip": 0.77,
+  "ambiguous": 0.165
+ },
+ {
+  "q": 2,
+  "N_shots": 1000000,
+  "eta": 0.02,
+  "eps_trunc": 0.003,
+  "flip": 0.005,
+  "ambiguous": 0.265
+ },
+ {
+  "q": 2,
+  "N_shots": 10000000,
+  "eta": 0.02,
+  "eps_trunc": 0.003,
+  "flip": 0.0,
+  "ambiguous": 0.22
+ }
+]
